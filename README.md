@@ -131,6 +131,8 @@ At the end of simulation, the testbench prints:
 * Hit rate (%)
 
 ---
+<img width="1129" height="1032" alt="image" src="https://github.com/user-attachments/assets/4f11a8f4-2fd7-417c-8f9b-0fb008499fa9" />
+
 
 ## 🧠 Key Concepts
 
@@ -181,6 +183,8 @@ cache_idle
 clk
 reset
 ```
+<img width="1600" height="218" alt="image" src="https://github.com/user-attachments/assets/c9748c4c-48e1-4c0f-b052-11b2148579cc" />
+
 
 
 ## ✅ Key Achievements
